@@ -70,7 +70,7 @@
         <version.jackson>2.9.9</version.jackson>
         <version.jackson-databind>2.9.9.3</version.jackson-databind>
         <version.slf4j>1.7.25</version.slf4j>
-        <version.jose4j>0.6.3</version.jose4j>
+        <version.jose4j>0.9.3</version.jose4j>
         <version.commons.codec>1.11</version.commons.codec>
         <version.encoder>1.2.1</version.encoder>
         <version.logback>1.2.3</version.logback>
